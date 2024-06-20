@@ -1,0 +1,5 @@
+===Início do Log===
+Hostname: DESKTOP-NDKUAGN
+Sistema Operacional: Windows
+
+[20240611 22:49:48] Processo: O ID do servidor foi capturado com sucesso
